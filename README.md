@@ -6,7 +6,7 @@
 
 - [x] Loss
 
-- [ ] Metric
+- [x] Metric
 
 - [ ] Model
 
