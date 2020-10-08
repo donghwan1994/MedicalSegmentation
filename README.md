@@ -16,6 +16,4 @@
 
 |Methods|Accuracy|Sensivity|Specificaty|JS|AUC|
 |:------:|:---:|:---:|:---:|:---:|:---:|:---:|
-| | | | | | |
-
-F1-scores	Sensivity	Specificaty	Accuracy	AUC	JS
+| | | | | | | |
