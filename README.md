@@ -24,5 +24,5 @@
 ## KNU Lung Segmentation
 
 |Methods|Year|F1-score|Sensivity|Specificity|Accuracy|AUC|
-|:------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:------:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Custom Model|2020|0.8735|0.9087|0.9867|0.9833|0.9477|
